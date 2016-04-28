@@ -1,0 +1,17 @@
+*{margin: 0px;padding: 0px; border:none; }
+
+#main {
+	width:960px;
+	margin: auto;
+	padding: 10px 10px 45px 10px;
+	min-height:715px;
+}
+
+#pie {
+	background-color: #222222;
+	color: #ffffff;
+}
+
+h1 {
+	margin: 0 auto;
+}
